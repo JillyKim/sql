@@ -210,4 +210,5 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 ```
 Your thoughts...
+In many websites of South Korean companies, last name and first name sections often have limits of characters. For example, most of Korean last names consist of one character in Korean alphabets and the websites tend to limit the number of characters to one or two. This creates a logistical issue given that there's a growing number of immigrants. This shows that the Korean society maintains the cultural ideology that Korea is a homogeneous country although it is no longer a true. 
 ```
