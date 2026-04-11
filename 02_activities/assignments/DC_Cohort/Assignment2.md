@@ -56,7 +56,7 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 **HINT:** search type 1 vs type 2 slowly changing dimensions. 
 
 ```
-Your answer...
+The one that will retain changes is type2 SCD. It preserves historical changes by creating a new record for each change. The one that will overwrite is type1 SCD. Type1 overwrites old data with new data; thus no historical data is preserved. 
 ```
 
 ***
@@ -192,4 +192,8 @@ Consider, for example, concepts of labour, bias, LLM proliferation, moderating c
 
 ```
 Your thoughts...
+The article, “Neural nets are just people all the way down”, written by Vicki Boykis argues that machine learning, despite its futuristic image, is fundamentally powered by substantial amounts of human labor that are hidden and often ignored. 
+An example that Boykis shows in the article is ImageNet, the landmark image dataset that underpins much of modern computer vision. ImageNet, the brainchild of a professor, Dr. Fei-Fei Li, was actually labeled by hundreds of thousands of crowdsourced workers on Amazon Mechanical Turk who were paid pennies per image. To date, more than 14 million images have been labeled by ImageNet. Moreover, Boykis explains that ImageNet was initially built on WordNet, a linguistic database assembled by Princeton linguists through manual classification work. WordNet itself relied on the Brown Corpus, a dataset of tagged English text compiled by hand in the 1960s.
+This shows that machine learning is in fact invovles human interventions in almost every step. And because people built these systems, they reflect the biases that humans have. As illustrated in the article, the ImageNet Roulette randomly pegged one man as an ‘orphan’ and another as a ‘nonsmoker’. This shows that artificial intelligence is not value-neutral, but can instead reflect and even reinforce people’s biases. Another important ethical issue in the story is concepts of labor. As Amazon Mechanical Turk represents in the essay, behind the AI model training, there are people doing repetitive jobs for living. However, this labor is rarely fairly compensated or recognized. This reality contrasts with the vision of many AI companies, which emphasize how AI advancement can benefit humanity as a whole.
+
 ```
