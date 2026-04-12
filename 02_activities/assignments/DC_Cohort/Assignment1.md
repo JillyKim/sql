@@ -210,4 +210,10 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 ```
 Your thoughts...
+
+In many websites of South Korean companies and government institutions, the input fields for last names and first names often have character limits that reflect a cultural assumption that South Korea is a homogenous society. For example, most Korean last names consist of only one character in the Korean alphabet (Hangul). Among others, most commons are Kim, Lee, Park, and Jung. All of them are one character in Hangul. As a result, many websites are designed to limit the number of characters in the last name field to just one or maximum two. While this may seem like a minor technical detail, it carries significant social implications that are becoming increasingly problematic. 
+This design choice creates a logistical issue for a growing segment of population. South Korea has seen a steady rise in the number of immigrants, foreign nationals, and multicultural families over the past few decades. Individuals with names rooted in other languages and writing systems — such as those from Southeast Asia, Central Asia, or European countries — often find that their names simply do not fit within these narrow character limits. As a result, they often do not have any choice but shorten or misrepresent their legal names to complete an online registration process. 
+This issue reveals the Korean society's self-perception. The persistence of such design limitations suggests that many institutions continue to operate under the strong cultural ideology that Korea is a homogeneous country. However, this is no longer an accurate reflection of reality, as South Korea is becoming an increasingly diverse and multicultural society.
+
+
 ```
